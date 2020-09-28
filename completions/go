@@ -1,1 +1,1 @@
-complete -C /Users/lgw4/Developer/go/bin/gocomplete go
+complete -C "${GOPATH}"/bin/gocomplete go
